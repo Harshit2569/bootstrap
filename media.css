@@ -1,0 +1,41 @@
+@media only screen and (max-width:576px){
+    h2{
+        font-size: 25px;
+        font-weight: 300;
+    }
+.btnJoin {
+    width: 100%;
+}
+.para{
+    font-size: 35px;
+}
+#paraText{
+    font-size: 15px;
+    text-align: center;
+
+}
+.footerButton{
+    display: block;
+    margin-left: 100px;
+    justify-content: center;
+    
+
+
+    
+}
+#btn1{
+    width: 80%;
+    margin: 5px;
+    /* margin-left: 50px; */
+}
+#btn2{
+    width: 80%;
+    margin: 5px;
+    
+}
+.nav-link{
+    font-size: 15px;
+
+}
+
+}
