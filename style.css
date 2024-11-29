@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(to right,#ded5d5,#18b1dc);
+}
+h2 {
+    color: #1a1a1a;
+    font-weight: 600;
+
+}
+.nav-link{
+    font-size: 18px;
+}
+
+
+.btnJoin {
+    border: none;
+    /* background: linear-gradient(to right, #edd7d7, #da6767); */
+    background-color: #dd5151;
+    padding: 14px 32px;
+    border-radius: 5px;
+    font-size: 16px;
+    display: inline-block;
+    font-size: 16px;
+}
+.para{
+    font-size: 100px;
+    font-weight: 800;
+    color: #1a1a1a;
+    text-align: center;
+    
+}
+#paraText{
+    font-size: 23px;
+    text-align: center;
+    
+}
+.footerButton{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 50px;
+    border-radius: 8px;
+
+}
+#btn1{
+    border: none;
+    padding: 16px 32px;
+    background-color: #dd5151;
+    font-size: 16px;
+    color: #fff;
+   
+    display: inline-block;
+}
+#btn2{
+    border: none;
+    padding: 16px 32px;
+    font-size: 16px;
+    display: inline-block;
+}
